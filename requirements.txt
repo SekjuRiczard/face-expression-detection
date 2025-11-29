@@ -1,0 +1,11 @@
+opencv-python
+tensorflow
+numpy==1.26.4
+protobuf==4.25.3
+keras
+pandas
+numpy
+jupyter
+notebook
+tqdm
+opencv-contrib-python

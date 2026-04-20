@@ -5,6 +5,9 @@ It includes dataset loading, preprocessing, augmentation, training, evaluation a
 
 ## 1. Requirements
 
+Python 3.10 
+TensorFlow 2.17.0
+
 Install dependencies:
 
 ```
